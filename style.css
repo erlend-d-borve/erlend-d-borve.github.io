@@ -1,0 +1,38 @@
+body {
+  max-width: 800px;
+  margin: 50px;
+  margin-top: 20px;
+  font:small verdana, arial, helvetica, sans-serif
+}
+
+#footer {
+text-align: center;
+position: fixed;
+bottom: 100px;
+}
+
+h1 {
+  font-weight:1500;
+}
+
+h2 {
+  font-weight:800;
+  margin:2em 0 .25em;
+}
+p {
+  line-height:1.75
+}
+
+#parentDiv
+{
+    position:relative;
+    min-height:700px;
+}
+#sidebar
+{
+    position:absolute;
+    right:0px;
+    bottom:0px;
+    top:0px;
+    width:200px;
+}
